@@ -1,0 +1,3 @@
+"UserName": "test-user",
+"UserId": "AIDAVDXGN2ZFLZYRDUZF5",
+"secretAccessKey":hdDZs1oTTi7HKXhAog2ePRM7t/6QFJFAeYNvvzCV
